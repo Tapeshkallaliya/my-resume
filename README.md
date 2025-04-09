@@ -1,1 +1,1 @@
-# ny-resume
+# my-resume
